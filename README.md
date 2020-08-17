@@ -1,3 +1,3 @@
 # ElianPage
-Pagina de practica para diseñadora gráfica hermosa
+Pagina de practica para diseñadora gráfica
 https://xantx.github.io/ElianPage/
